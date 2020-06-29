@@ -4,6 +4,8 @@ Devido a diversas informações que aparecem na mídia sobre o COVID 19, pensei 
 
 Este repositório deve servir como treinamento no estudo de mineração de dados utilizando o Pandas e exibindo os gráficos através da biblioteca do Seaborn, todas gerenciadas pelo Python. Usei preferencialmente o Google Colab para rodar este notebook.
 
+![](files/recuperados_pernambuco.png)
+
 ![](files/novos_casos_pernambuco_por_mes.png)
 
 ![](files/novos_mortes_pernambuco_por_dia.png)
