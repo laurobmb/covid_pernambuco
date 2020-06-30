@@ -351,3 +351,32 @@ for index, row in df_paulista_recovered.iterrows():
 
 
 g.figure.savefig('files/recuperados_pernambuco.png',dpi=200,quality=90)
+
+#download('https://dados.seplag.pe.gov.br/apps/basegeral.csv','basegeral.csv')
+df_basegeral = pd.read_csv('basegeral.csv',sep=';')
+display(df_basegeral.tail())
+df_basegeral = df_basegeral[ ['Sexo','Resultado','evolucao','faixa_etaria']]
+display(df_basegeral.tail())
+
+display(df_basegeral['evolucao'].drop_duplicates())
+display(df_basegeral['Sexo'].drop_duplicates())
+display(df_basegeral['faixa_etaria'].drop_duplicates())
+display(df_basegeral['Resultado'].drop_duplicates())
+
+
+
+
+#ax = sns.barplot(x="Resultado", y="faixa_etaria", hue="Sexo", data=df_basegeral)
+
+import matplotlib.pyplot as plt
+
+labels = 'Frogs', 'Hogs', 'Dogs', 'Logs'
+sizes = [15, 30, 45, 10]
+explode = (0, 0.1, 0, 0)  # only "explode" the 2nd slice (i.e. 'Hogs')
+
+fig1, ax1 = plt.subplots()
+ax1.pie(sizes, explode=explode, labels=labels, autopct='%1.1f%%',
+        shadow=True, startangle=90)
+ax1.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
+
+plt.show()
