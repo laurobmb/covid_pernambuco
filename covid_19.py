@@ -352,7 +352,7 @@ for index, row in df_paulista_recovered.iterrows():
 
 g.figure.savefig('files/recuperados_pernambuco.png',dpi=200,quality=90)
 
-#download('https://dados.seplag.pe.gov.br/apps/basegeral.csv','basegeral.csv')
+download('https://dados.seplag.pe.gov.br/apps/basegeral.csv','basegeral.csv')
 df_basegeral = pd.read_csv('basegeral.csv',sep=';')
 display(df_basegeral.tail())
 df_basegeral = df_basegeral[ ['Sexo','Resultado','evolucao','faixa_etaria']]
