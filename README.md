@@ -6,10 +6,18 @@ Este repositório deve servir como treinamento no estudo de mineração de dados
 
 ![](files/recuperados_pernambuco.png)
 
-![](files/novos_casos_pernambuco_por_mes.png)
-
-![](files/novos_mortes_pernambuco_por_dia.png)
+![](files/casos_por_mes.png)
 
 ![](files/mortes_por_mes.png)
 
-![](files/casos_por_mes.png)
+![](files/novos_casos_pernambuco_por_mes.png)
+
+![](files/novos_casos_olinda_por_mes.png)
+
+![](files/novos_casos_paulista_por_mes.png)
+
+![](files/novos_casos_recife_por_mes.png)
+
+![](files/novos_mortes_pernambuco_por_dia.png)
+
+![](files/novos_mortes_pernambuco_por_mes.png)
