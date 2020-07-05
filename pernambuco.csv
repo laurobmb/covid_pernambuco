@@ -1,187 +1,179 @@
-date,state,city,place_type,confirmed,deaths,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-06-30,PE,Abreu e Lima,city,477,55,True,99990,2600054,477.0477,0.1153
-2020-06-30,PE,Afogados da Ingazeira,city,77,4,True,37259,2600104,206.66148,0.0519
-2020-06-30,PE,Afrânio,city,65,1,True,19635,2600203,331.04151,0.0154
-2020-06-30,PE,Agrestina,city,177,13,True,24885,2600302,711.27185,0.0734
-2020-06-30,PE,Água Preta,city,683,26,True,36771,2600401,1857.44201,0.0381
-2020-06-30,PE,Águas Belas,city,346,16,True,43443,2600500,796.44592,0.0462
-2020-06-30,PE,Alagoinha,city,54,1,True,14636,2600609,368.95327,0.0185
-2020-06-30,PE,Aliança,city,177,17,True,38386,2600708,461.10561,0.096
-2020-06-30,PE,Altinho,city,137,3,True,22972,2600807,596.3782,0.0219
-2020-06-30,PE,Amaraji,city,99,15,True,22829,2600906,433.65894,0.1515
-2020-06-30,PE,Angelim,city,14,0,True,11150,2601003,125.56054,0.0
-2020-06-30,PE,Araçoiaba,city,60,8,True,20524,2601052,292.34067,0.1333
-2020-06-30,PE,Araripina,city,213,5,True,84418,2601102,252.31586,0.0235
-2020-06-30,PE,Arcoverde,city,283,22,True,74338,2601201,380.69359,0.0777
-2020-06-30,PE,Barra de Guabiraba,city,86,2,True,14385,2601300,597.84498,0.0233
-2020-06-30,PE,Barreiros,city,220,21,True,42659,2601409,515.71767,0.0955
-2020-06-30,PE,Belém de Maria,city,29,0,True,12073,2601508,240.20542,0.0
-2020-06-30,PE,Belém do São Francisco,city,11,0,True,20729,2601607,53.06575,0.0
-2020-06-30,PE,Belo Jardim,city,107,7,True,76439,2601706,139.9809,0.0654
-2020-06-30,PE,Betânia,city,16,1,True,12719,2601805,125.79605,0.0625
-2020-06-30,PE,Bezerros,city,224,12,True,60798,2601904,368.43317,0.0536
-2020-06-30,PE,Bodocó,city,29,2,True,38146,2602001,76.0237,0.069
-2020-06-30,PE,Bom Conselho,city,150,5,True,48554,2602100,308.93438,0.0333
-2020-06-30,PE,Bom Jardim,city,107,12,True,39184,2602209,273.07064,0.1121
-2020-06-30,PE,Bonito,city,106,12,True,38134,2602308,277.96717,0.1132
-2020-06-30,PE,Brejão,city,1,0,True,8993,2602407,11.11976,0.0
-2020-06-30,PE,Brejinho,city,28,0,True,7487,2602506,373.98157,0.0
-2020-06-30,PE,Brejo da Madre de Deus,city,295,6,True,50742,2602605,581.37243,0.0203
-2020-06-30,PE,Buenos Aires,city,31,3,True,13155,2602704,235.65184,0.0968
-2020-06-30,PE,Buíque,city,53,1,True,58378,2602803,90.78763,0.0189
-2020-06-30,PE,Cabo de Santo Agostinho,city,922,161,True,207048,2602902,445.30737,0.1746
-2020-06-30,PE,Cabrobó,city,52,1,True,34221,2603009,151.95348,0.0192
-2020-06-30,PE,Cachoeirinha,city,104,7,True,20380,2603108,510.30422,0.0673
-2020-06-30,PE,Caetés,city,76,3,True,28739,2603207,264.44901,0.0395
-2020-06-30,PE,Calçado,city,20,1,True,11053,2603306,180.94635,0.05
-2020-06-30,PE,Calumbi,city,25,1,True,5750,2603405,434.78261,0.04
-2020-06-30,PE,Camaragibe,city,1256,97,True,157828,2603454,795.80303,0.0772
-2020-06-30,PE,Camocim de São Félix,city,69,2,True,18765,2603504,367.70584,0.029
-2020-06-30,PE,Camutanga,city,73,3,True,8551,2603603,853.70132,0.0411
-2020-06-30,PE,Canhotinho,city,63,4,True,24804,2603702,253.99129,0.0635
-2020-06-30,PE,Capoeiras,city,34,3,True,20048,2603801,169.59298,0.0882
-2020-06-30,PE,Carnaíba,city,49,6,True,19551,2603900,250.62657,0.1224
-2020-06-30,PE,Carnaubeira da Penha,city,7,1,True,12932,2603926,54.12929,0.1429
-2020-06-30,PE,Carpina,city,245,38,True,83641,2604007,292.91854,0.1551
-2020-06-30,PE,Caruaru,city,1737,118,True,361118,2604106,481.00621,0.0679
-2020-06-30,PE,Casinhas,city,23,2,True,14341,2604155,160.37933,0.087
-2020-06-30,PE,Catende,city,326,21,True,42892,2604205,760.04849,0.0644
-2020-06-30,PE,Cedro,city,37,1,True,11807,2604304,313.37342,0.027
-2020-06-30,PE,Chã de Alegria,city,136,5,True,13518,2604403,1006.06599,0.0368
-2020-06-30,PE,Chã Grande,city,173,11,True,21698,2604502,797.30851,0.0636
-2020-06-30,PE,Condado,city,179,22,True,26421,2604601,677.49139,0.1229
-2020-06-30,PE,Correntes,city,51,2,True,18207,2604700,280.11204,0.0392
-2020-06-30,PE,Cortês,city,89,9,True,12578,2604809,707.58467,0.1011
-2020-06-30,PE,Cumaru,city,50,1,True,10906,2604908,458.46323,0.02
-2020-06-30,PE,Cupira,city,197,11,True,24107,2605004,817.19003,0.0558
-2020-06-30,PE,Custódia,city,114,9,True,37111,2605103,307.18655,0.0789
-2020-06-30,PE,Dormentes,city,120,0,True,18908,2605152,634.652,0.0
-2020-06-30,PE,Escada,city,218,32,True,68875,2605202,316.51543,0.1468
-2020-06-30,PE,Exu,city,14,1,True,31825,2605301,43.99057,0.0714
-2020-06-30,PE,Feira Nova,city,274,13,True,22131,2605400,1238.08233,0.0474
-2020-06-30,PE,Fernando de Noronha,city,85,0,True,3061,2605459,2776.8703,0.0
-2020-06-30,PE,Ferreiros,city,95,7,True,12123,2605509,783.63441,0.0737
-2020-06-30,PE,Flores,city,20,1,True,22624,2605608,88.4017,0.05
-2020-06-30,PE,Floresta,city,47,3,True,32873,2605707,142.97448,0.0638
-2020-06-30,PE,Frei Miguelinho,city,70,5,True,15457,2605806,452.86925,0.0714
-2020-06-30,PE,Gameleira,city,130,13,True,31052,2605905,418.65258,0.1
-2020-06-30,PE,Garanhuns,city,406,29,True,139788,2606002,290.43981,0.0714
-2020-06-30,PE,Glória do Goitá,city,154,18,True,30604,2606101,503.2022,0.1169
-2020-06-30,PE,Goiana,city,669,44,True,79758,2606200,838.78733,0.0658
-2020-06-30,PE,Granito,city,2,0,True,7486,2606309,26.71654,0.0
-2020-06-30,PE,Gravatá,city,211,17,True,84074,2606408,250.96938,0.0806
-2020-06-30,PE,Iati,city,4,0,True,19197,2606507,20.83659,0.0
-2020-06-30,PE,Ibimirim,city,45,7,True,29235,2606606,153.92509,0.1556
-2020-06-30,PE,Ibirajuba,city,7,0,True,7762,2606705,90.18294,0.0
-2020-06-30,PE,Igarassu,city,435,64,True,117019,2606804,371.7345,0.1471
-2020-06-30,PE,Iguaracy,city,31,2,True,12228,2606903,253.51652,0.0645
-2020-06-30,PE,Ilha de Itamaracá,city,122,3,True,26258,2607604,464.62031,0.0246
-2020-06-30,PE,Importados/Indefinidos,city,137,30,True,,,,0.219
-2020-06-30,PE,Inajá,city,5,1,True,23247,2607000,21.50815,0.2
-2020-06-30,PE,Ingazeira,city,9,0,True,4548,2607109,197.88918,0.0
-2020-06-30,PE,Ipojuca,city,452,66,True,96204,2607208,469.83493,0.146
-2020-06-30,PE,Ipubi,city,92,9,True,30854,2607307,298.17852,0.0978
-2020-06-30,PE,Itacuruba,city,1,1,True,4918,2607406,20.33347,1.0
-2020-06-30,PE,Itaíba,city,67,3,True,26349,2607505,254.2791,0.0448
-2020-06-30,PE,Itambé,city,517,24,True,36447,2607653,1418.49809,0.0464
-2020-06-30,PE,Itapetim,city,24,1,True,13616,2607703,176.26322,0.0417
-2020-06-30,PE,Itapissuma,city,208,22,True,26651,2607752,780.45852,0.1058
-2020-06-30,PE,Itaquitinga,city,80,8,True,16955,2607802,471.83722,0.1
-2020-06-30,PE,Jaboatão dos Guararapes,city,4831,567,True,702298,2607901,687.88463,0.1174
-2020-06-30,PE,Jaqueira,city,107,4,True,11656,2607950,917.98216,0.0374
-2020-06-30,PE,Jataúba,city,126,4,True,17150,2608008,734.69388,0.0317
-2020-06-30,PE,Jatobá,city,10,0,True,14796,2608057,67.58583,0.0
-2020-06-30,PE,João Alfredo,city,109,16,True,33822,2608107,322.27544,0.1468
-2020-06-30,PE,Joaquim Nabuco,city,78,9,True,16023,2608206,486.80022,0.1154
-2020-06-30,PE,Jucati,city,42,1,True,11424,2608255,367.64706,0.0238
-2020-06-30,PE,Jupi,city,45,2,True,14836,2608305,303.31626,0.0444
-2020-06-30,PE,Jurema,city,33,2,True,15378,2608404,214.59227,0.0606
-2020-06-30,PE,Lagoa de Itaenga,city,109,7,True,21429,2608503,508.65649,0.0642
-2020-06-30,PE,Lagoa do Carro,city,65,6,True,18071,2608453,359.69232,0.0923
-2020-06-30,PE,Lagoa do Ouro,city,13,1,True,13145,2608602,98.89692,0.0769
-2020-06-30,PE,Lagoa dos Gatos,city,173,4,True,16290,2608701,1062.00123,0.0231
-2020-06-30,PE,Lagoa Grande,city,14,1,True,25601,2608750,54.68536,0.0714
-2020-06-30,PE,Lajedo,city,117,5,True,40288,2608800,290.40905,0.0427
-2020-06-30,PE,Limoeiro,city,422,30,True,56250,2608909,750.22222,0.0711
-2020-06-30,PE,Macaparana,city,108,3,True,25376,2609006,425.59899,0.0278
-2020-06-30,PE,Machados,city,49,3,True,16088,2609105,304.57484,0.0612
-2020-06-30,PE,Manari,city,0,0,True,21434,2609154,,0.0
-2020-06-30,PE,Maraial,city,90,4,True,11345,2609204,793.30101,0.0444
-2020-06-30,PE,Mirandiba,city,0,0,True,15390,2609303,,0.0
-2020-06-30,PE,Moreilândia,city,6,0,True,11270,2614303,53.23869,0.0
-2020-06-30,PE,Moreno,city,275,34,True,62784,2609402,438.00968,0.1236
-2020-06-30,PE,Nazaré da Mata,city,123,19,True,32471,2609501,378.79954,0.1545
-2020-06-30,PE,Olinda,city,3781,225,True,392482,2609600,963.35628,0.0595
-2020-06-30,PE,Orobó,city,55,2,True,23884,2609709,230.27969,0.0364
-2020-06-30,PE,Orocó,city,6,1,True,14991,2609808,40.02401,0.1667
-2020-06-30,PE,Ouricuri,city,74,3,True,69459,2609907,106.53767,0.0405
-2020-06-30,PE,Palmares,city,836,48,True,63250,2610004,1321.73913,0.0574
-2020-06-30,PE,Palmeirina,city,7,2,True,7693,2610103,90.99181,0.2857
-2020-06-30,PE,Panelas,city,104,4,True,26474,2610202,392.83826,0.0385
-2020-06-30,PE,Paranatama,city,7,2,True,11523,2610301,60.74807,0.2857
-2020-06-30,PE,Parnamirim,city,32,1,True,22010,2610400,145.38846,0.0312
-2020-06-30,PE,Passira,city,188,10,True,28933,2610509,649.77707,0.0532
-2020-06-30,PE,Paudalho,city,361,29,True,56506,2610608,638.87021,0.0803
-2020-06-30,PE,Paulista,city,2634,202,True,331774,2610707,793.91393,0.0767
-2020-06-30,PE,Pedra,city,32,3,True,22617,2610806,141.48649,0.0938
-2020-06-30,PE,Pesqueira,city,270,10,True,67395,2610905,400.62319,0.037
-2020-06-30,PE,Petrolândia,city,51,2,True,36548,2611002,139.54252,0.0392
-2020-06-30,PE,Petrolina,city,681,25,True,349145,2611101,195.0479,0.0367
-2020-06-30,PE,Poção,city,18,2,True,11302,2611200,159.26385,0.1111
-2020-06-30,PE,Pombos,city,356,18,True,27091,2611309,1314.08955,0.0506
-2020-06-30,PE,Primavera,city,62,7,True,14966,2611408,414.27235,0.1129
-2020-06-30,PE,Quipapá,city,167,1,True,26037,2611507,641.39494,0.006
-2020-06-30,PE,Quixaba,city,18,3,True,6813,2611533,264.20079,0.1667
-2020-06-30,PE,Recife,city,20729,1825,True,1645727,2611606,1259.56492,0.088
-2020-06-30,PE,Riacho das Almas,city,89,1,True,20546,2611705,433.17434,0.0112
-2020-06-30,PE,Ribeirão,city,135,39,True,47415,2611804,284.72003,0.2889
-2020-06-30,PE,Rio Formoso,city,83,15,True,23535,2611903,352.66624,0.1807
-2020-06-30,PE,Sairé,city,6,2,True,9932,2612000,60.41079,0.3333
-2020-06-30,PE,Salgadinho,city,28,0,True,10919,2612109,256.43374,0.0
-2020-06-30,PE,Salgueiro,city,134,9,True,60930,2612208,219.9245,0.0672
-2020-06-30,PE,Saloá,city,21,4,True,15843,2612307,132.55065,0.1905
-2020-06-30,PE,Sanharó,city,52,5,True,26462,2612406,196.5082,0.0962
-2020-06-30,PE,Santa Cruz,city,4,0,True,15398,2612455,25.9774,0.0
-2020-06-30,PE,Santa Cruz da Baixa Verde,city,6,0,True,12592,2612471,47.6493,0.0
-2020-06-30,PE,Santa Cruz do Capibaribe,city,422,9,True,107937,2612505,390.96881,0.0213
-2020-06-30,PE,Santa Filomena,city,2,0,True,14477,2612554,13.81502,0.0
-2020-06-30,PE,Santa Maria da Boa Vista,city,13,0,True,41931,2612604,31.00331,0.0
-2020-06-30,PE,Santa Maria do Cambucá,city,15,4,True,14137,2612703,106.10455,0.2667
-2020-06-30,PE,Santa Terezinha,city,8,0,True,11815,2612802,67.71054,0.0
-2020-06-30,PE,São Benedito do Sul,city,10,1,True,15895,2612901,62.91287,0.1
-2020-06-30,PE,São Bento do Una,city,216,14,True,59504,2613008,363.00081,0.0648
-2020-06-30,PE,São Caitano,city,103,0,True,37245,2613107,276.54719,0.0
-2020-06-30,PE,São João,city,13,0,True,22793,2613206,57.03505,0.0
-2020-06-30,PE,São Joaquim do Monte,city,107,9,True,21356,2613305,501.03016,0.0841
-2020-06-30,PE,São José da Coroa Grande,city,213,10,True,21298,2613404,1000.09391,0.0469
-2020-06-30,PE,São José do Belmonte,city,121,0,True,33959,2613503,356.31202,0.0
-2020-06-30,PE,São José do Egito,city,72,1,True,33951,2613602,212.07034,0.0139
-2020-06-30,PE,São Lourenço da Mata,city,594,70,True,113230,2613701,524.59596,0.1178
-2020-06-30,PE,São Vicente Ferrer,city,118,7,True,18018,2613800,654.90065,0.0593
-2020-06-30,PE,Serra Talhada,city,489,7,True,86350,2613909,566.29994,0.0143
-2020-06-30,PE,Serrita,city,26,2,True,19165,2614006,135.66397,0.0769
-2020-06-30,PE,Sertânia,city,128,4,True,35907,2614105,356.47645,0.0312
-2020-06-30,PE,Sirinhaém,city,215,16,True,45865,2614204,468.76703,0.0744
-2020-06-30,PE,Solidão,city,7,0,True,6007,2614402,116.53071,0.0
-2020-06-30,PE,Surubim,city,313,10,True,65089,2614501,480.88003,0.0319
-2020-06-30,PE,Tabira,city,116,4,True,28534,2614600,406.53256,0.0345
-2020-06-30,PE,Tacaimbó,city,60,1,True,12874,2614709,466.05562,0.0167
-2020-06-30,PE,Tacaratu,city,27,3,True,25765,2614808,104.79332,0.1111
-2020-06-30,PE,Tamandaré,city,179,9,True,23388,2614857,765.34975,0.0503
-2020-06-30,PE,Taquaritinga do Norte,city,20,4,True,28775,2615003,69.50478,0.2
-2020-06-30,PE,Terezinha,city,9,1,True,7169,2615102,125.54052,0.1111
-2020-06-30,PE,Terra Nova,city,4,1,True,10096,2615201,39.61965,0.25
-2020-06-30,PE,Timbaúba,city,325,30,True,53022,2615300,612.95311,0.0923
-2020-06-30,PE,Toritama,city,147,4,True,45219,2615409,325.08459,0.0272
-2020-06-30,PE,Tracunhaém,city,27,6,True,13769,2615508,196.09267,0.2222
-2020-06-30,PE,Trindade,city,118,8,True,30521,2615607,386.61905,0.0678
-2020-06-30,PE,Triunfo,city,56,3,True,15254,2615706,367.11682,0.0536
-2020-06-30,PE,Tupanatinga,city,35,2,True,27304,2615805,128.18635,0.0571
-2020-06-30,PE,Tuparetama,city,27,2,True,8202,2615904,329.188,0.0741
-2020-06-30,PE,Venturosa,city,33,2,True,18482,2616001,178.5521,0.0606
-2020-06-30,PE,Verdejante,city,7,0,True,9534,2616100,73.42144,0.0
-2020-06-30,PE,Vertente do Lério,city,15,1,True,7618,2616183,196.90207,0.0667
-2020-06-30,PE,Vertentes,city,51,1,True,20731,2616209,246.00839,0.0196
-2020-06-30,PE,Vicência,city,120,8,True,32643,2616308,367.61327,0.0667
-2020-06-30,PE,Vitória de Santo Antão,city,943,108,True,138757,2616407,679.60535,0.1145
-2020-06-30,PE,Xexéu,city,149,11,True,14725,2616506,1011.88455,0.0738
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+
+<link rel="stylesheet" type="text/css" href="/static/css/material_icons.6beede8524d0.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="/static/css/materialize-social.76b1c156c64c.css">
+
+<link rel="stylesheet" type="text/css" href="/static/css/materialize.min.fba7562ce0e0.css">
+<link rel="stylesheet" type="text/css" href="/static/css/dataTables.material.min.9adca8410e07.css">
+<link rel="stylesheet" type="text/css" href="/static/css/base.28be324d7d40.css">
+<link rel="stylesheet" type="text/css" href="/static/css/application.4194578fe419.css">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/static/img/favicon.3ee9236ca0bc.ico">
+<title>Brasil.IO</title>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-117698282-1"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-117698282-1');
+    </script>
+<script src="/static/js/jquery.c1e57137510f.js"></script>
+<script src="/static/js/materialize.min.d923fe16aca4.js"></script>
+<script src="/static/js/application.9edace3e6111.js"></script>
+</head>
+<body>
+<nav>
+<div class="nav-wrapper indigo">
+<a href="/" class="brand-logo" title="Ir à página inicial">
+<img src="/static/img/logo/logo_br-io_fundo-escuro.bbbaf8e79edf.png" style="max-height:40px;margin-left: 20px; margin-top: 10px;" alt="Logo da Brasil.IO">
+</a>
+<a href="#" data-target="mobile-demo" class="sidenav-trigger" title="Menu"><i class="material-icons">menu</i></a>
+<ul class="right hide-on-med-and-down">
+<li><a class="dropdown-trigger" href="#!" data-target="desktop_unauthenticated-dropdown">
+Sua conta
+<i class="material-icons right">arrow_drop_down</i>
+</a></li>
+<ul id="desktop_unauthenticated-dropdown" class="dropdown-content">
+<li><a href="/auth/entrar/">Cadastre-se</a></li>
+<li><a href="/auth/login/">Login</a></li>
+</ul>
+<li><a class="dropdown-trigger" href="#!" data-target="desktop-data-dropdown">
+Dados
+<i class="material-icons right">arrow_drop_down</i>
+</a></li>
+<ul id="desktop-data-dropdown" class="dropdown-content">
+<li><a href="/datasets/">Datasets</a></li>
+<li><a href="/especiais/">Páginas Especiais</a></li>
+<li><a href="/api/datasets/">API</a></li>
+</ul>
+<li><a class="dropdown-trigger" href="#!" data-target="desktop-about-dropdown">
+Sobre
+<i class="material-icons right">arrow_drop_down</i>
+</a></li>
+<ul id="desktop-about-dropdown" class="dropdown-content">
+<li><a href="/manifesto/">Manifesto</a></li>
+<li><a href="/colabore/">Colabore</a></li>
+</ul>
+<li><a href="https://blog.brasil.io/">Blog</a></li>
+<li><a class="btn" href="/doe/">APOIE</a></li>
+<script>
+  $(".dropdown-trigger").dropdown();
+</script>
+</ul>
+</div>
+</nav>
+<ul class="sidenav" id="mobile-demo">
+<li><a class="dropdown-trigger" href="#!" data-target="mobile_unauthenticated-dropdown">
+Sua conta
+<i class="material-icons right">arrow_drop_down</i>
+</a></li>
+<ul id="mobile_unauthenticated-dropdown" class="dropdown-content">
+<li><a href="/auth/entrar/">Cadastre-se</a></li>
+<li><a href="/auth/login/">Login</a></li>
+</ul>
+<li><a class="dropdown-trigger" href="#!" data-target="mobile-data-dropdown">
+Dados
+<i class="material-icons right">arrow_drop_down</i>
+</a></li>
+<ul id="mobile-data-dropdown" class="dropdown-content">
+<li><a href="/datasets/">Datasets</a></li>
+<li><a href="/especiais/">Páginas Especiais</a></li>
+<li><a href="/api/datasets/">API</a></li>
+</ul>
+<li><a class="dropdown-trigger" href="#!" data-target="mobile-about-dropdown">
+Sobre
+<i class="material-icons right">arrow_drop_down</i>
+</a></li>
+<ul id="mobile-about-dropdown" class="dropdown-content">
+<li><a href="/manifesto/">Manifesto</a></li>
+<li><a href="/colabore/">Colabore</a></li>
+</ul>
+<li><a href="https://blog.brasil.io/">Blog</a></li>
+<li><a class="btn" href="/doe/">APOIE</a></li>
+<script>
+  $(".dropdown-trigger").dropdown();
+</script>
+</ul>
+<main class="container">
+<div class="container">
+<div class="section indigo-text text-center error-container">
+<h1>Oops! Existem melhores formas de baixar o CSV completo de um dataset</h1>
+<p>
+<b>
+Fazer o download de um CSV pela interface web onera muito nossos servidores. Como isso influencia na experiência usuários, essa requisição foi invalidada.</b>
+<p>Se você precisa baixar a base completa, por favor, baixe o <b><a href="https://data.brasil.io/dataset/covid19/_meta/list.html">arquivo com dataset completo</a></b>.</p>
+<p>Esse link usa nosso servidor de arquivos estáticos e é a maneira mais rápida (e correta) de baixar a base de dados completa. Por favor, não use a API para percorrer todas as páginas do dataset, nem tente baixar com o "?format=csv" do link de filtros que aparece na interface Web pois ambos oneram demais nossos servidores.</p>
+<p>Em breve limitaremos o acesso automatizado ao site, dados esses abusos que vem acontecendo. Peço que acompanhe nossas novidades no <b><a href="https://t.me/brasil_io">Telegram</a></b>.</p>
+</p>
+</div>
+</div>
+</main>
+<footer class="footer indigo darken-4">
+<div class="container">
+<section id="newsletter">
+
+<div id="mc_embed_signup">
+<form action="https://cafe.us18.list-manage.com/subscribe/post?u=80b85fdff0e6a974bff762825&amp;id=ef97ff9b61" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<div id="mc_embed_signup_scroll ">
+<h6 class=" text-center white-text"> Receba nossas novidades! </h6>
+<div class="row">
+<div class="mc-field-group col m4" style="text-align: right;">
+<label for="mce-EMAIL">
+Newsletter:
+</label>
+</div>
+<div class="mc-field-group col m4">
+<input type="email" placeholder="Digite seu e-mail" value="" name="EMAIL" class="required email white-text email-newsletter" id="mce-EMAIL">
+</div>
+<div id="mce-responses" class="clear">
+<div class="response" id="mce-error-response" style="display:none"></div>
+<div class="response" id="mce-success-response" style="display:none"></div>
+</div>
+
+<div style="position: absolute; left: -5000px;" aria-hidden="true">
+<input type="text" name="b_80b85fdff0e6a974bff762825_ef97ff9b61" tabindex="-1" value="">
+</div>
+<div class="clear col m4">
+<input type="submit" value="Inscrever" name="subscribe" id="mc-embedded-subscribe" class=" btn btn-dark-blue" style="float: left;">
+</div>
+</div>
+<div class="row">
+<div class="col m4" style="text-align: right;">
+<label>
+Telegram:
+</label>
+</div>
+<div class="col m4">
+<a class="valign-wrapper" href="https://t.me/brasil_io" title="Ir ao Telegram do Brasil.IO">
+<img style="height: 2em" src="/static/img/logo-telegram.2c84be4c4dec.png" alt="Logo Telegram">
+&nbsp;
+t.me/brasil_io
+</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+
+</section>
+<div class="section indigo-text text-lighten-5" style="padding-top: 0 !important;">
+<p>
+O <b>Brasil.IO</b> é mantido com muito carinho por
+<a href="https://twitter.com/turicas" title="Twitter do Álvaro Justen">Álvaro Justen</a> e
+<a href="/contribuidores/">contribuidores</a>.
+</p>
+</div>
+<div class="container">
+<a href="/contato/">Contato</a>
+| <a href="/colabore/">Colabore</a>
+</div>
+</div>
+</footer>
+</body>
+</html>
